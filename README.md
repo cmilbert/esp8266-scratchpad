@@ -4,10 +4,10 @@ Random notes and information about esp8266 devices
 # Unbricking/Flashing using a USB TTL cable
 * Jumper GND to D3 (GPIO0)
 * Attach USB TTL cable
-** Red to +5v
-** Black to GND
-** White to TX
-** Green to RX
+  * Red to +5v
+  * Black to GND
+  * White to TX
+  * Green to RX
 * Press the reset button
 * Load the sketch from Arduino
 
